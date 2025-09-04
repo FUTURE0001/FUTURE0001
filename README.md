@@ -8,9 +8,10 @@
 * remote-desktop:gameviewer
 * downloader:xdown
 * editor:visual studio code
+* ssh:tabby
 
 ## ios
 * player:senplayer
-* vpn:sing-box karing
+* vpn:sing-box karing singbox
 * remote-desktop:gameviewer
   
